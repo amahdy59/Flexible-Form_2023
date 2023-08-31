@@ -452,7 +452,7 @@ li p {
 
 }
 
-@media screen and (min-width:400px) and (max-width:550px) {
+@media screen and (min-width:300px) and (max-width:550px) {
     .rating {
         display:flex;
         flex-direction: column-reverse;
