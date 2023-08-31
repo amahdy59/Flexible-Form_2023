@@ -387,7 +387,7 @@ li p {
 
 
     .main {
-      
+        background-color:white;
         padding:0;
         margin:0;
         /* display:flex; */
@@ -396,11 +396,11 @@ li p {
         border:none;
         box-shadow:none;
         /* max-width:100%; */
-        margin-top:-3.6rem;
-        
+        margin-top:-3.6rem;  
     }
 
     .form-container {
+        background-color:white;
         margin:0;
         padding:0;
         width:100%;
@@ -463,6 +463,7 @@ li p {
 
 
     .main {
+        background-color:white;
         padding:0;
         margin:0;
         display:flex;
